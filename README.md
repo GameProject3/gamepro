@@ -1,3 +1,0 @@
-# gamepro
-firstOrganization
-slm louled
