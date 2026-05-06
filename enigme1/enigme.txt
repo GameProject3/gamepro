@@ -1,0 +1,15 @@
+1?Quel acteur incarne le detective William Somerset dans Se7en?Brad Pitt!Morgan Freeman!Kevin Spacey!2
+1?Comment s'appelle le detective rookie incarne par Brad Pitt?David Mills!John Doe!William Somerset!1
+1?Quel est le premier peche capital commis par le tueur?La Gourmandise!L'Avarice!La Paresse!1
+1?Dans quelle ville se deroule l'action de Se7en?New York!Los Angeles!Une ville sans nom (souvent associee a une metropole sombre)!3
+1?Qui est le realisateur de Se7en?Christopher Nolan!David Fincher!Martin Scorsese!2
+1?Quel est le septieme peche capital selon le film?La Luxure!L'Orgueil!L'Envie!1
+1?Que signifie le titre "Se7en"?Le nombre de victimes!Les 7 peches capitaux!Le 7eme jour!2
+1?Quel objet emblematique Somerset utilise-t-il pour prendre des notes?Un carnet en cuir!Un stylo plume!Un Metronome!3
+1?Comment meurt le detective Mills à la fin?Il est tue par Doe!Il survit!Il devient fou!2
+1?Quel est le nom de la femme de Mills?Tracy!Sarah!Emily!1
+2?Quel acteur joue John Doe, le tueur?Brad Pitt!Morgan Freeman!Kevin Spacey!3
+2?Quel peche capital John Doe represente-t-il a la fin?La Colere!L'Envie!L'Orgueil!2
+2?Que contient la fameuse boite livree à la fin du film?Une arme!La tete de Tracy!Un livre!2
+2?Quel est le dernier peche capital commis par Mills?La Colere!La Luxure!L'Orgueil!1
+2?Quelle citation celebre resume la philosophie de John Doe?"Le monde est beau"!"Le monde est un endroit magnifique"!"Le monde est un endroit terrible"!2

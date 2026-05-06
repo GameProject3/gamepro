@@ -1,0 +1,12 @@
+// In main.c, change the font loading line:
+// TTF_Font* font = TTF_OpenFont("arial.ttf", 24);
+// Replace with:
+
+TTF_Font* font = NULL;
+// Try common Linux fonts
+font = TTF_OpenFont("/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf", 24);
+if (!font) font = TTF_OpenFont("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 24);
+if (!font) font = TTF_OpenFont("/usr/share/fonts/truetype/freefont/FreeSans.ttf", 24);
+if (!font) {
+    printf("No font found! Install with: sudo apt-get install fonts-dejavu\n");
+}
